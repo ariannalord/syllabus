@@ -569,6 +569,9 @@ Briefings in Bioinformatics. https://doi.org/10.1093/bib/bbw096
 
 ### Example genome projects
 
+
+Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability.  PNAS. https://www.pnas.org/content/early/2019/02/13/1819778116
+
 Edgar et al. 2018. Single-molecule sequencing and optical mapping yields an
 improved genome of woodland strawberry (Fragaria vesca) with chromosome-scale
 contiguity. Gigascience. https://doi.org/10.1093/gigascience/gix124
